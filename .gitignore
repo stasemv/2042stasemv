@@ -1,0 +1,6 @@
+Makefile*
+*.bmp
+*.obj
+~*
+*.tmp
+*user*
